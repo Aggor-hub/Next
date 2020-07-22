@@ -1,0 +1,43 @@
+#header{
+    text-align: center;
+
+}
+header{
+    background-color: rgba(10, 10, 10, 0.7);
+    color: rgb(255, 255, 255);
+}
+body{
+    background-image: url("../images/background-images/demo-background1.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+font-style: helvetica;
+}
+
+.list-item{
+    list-style: none;
+    display: inline;
+
+    margin: 15px;
+    padding: 5px 8px 3px;
+    padding-left: ;
+    font-size: 20px;
+    font-weight: bold;
+}
+*{
+    color: rgb(255, 255, 255);
+    margin: 0;
+}
+p{
+    color: rgb(10, 15, 2);
+    font-size: 20px
+}
+li a{
+    color: white;
+    text-decoration: none;
+}
+section{
+    margin: 15px;
+    border: 1px solid black;
+    height: 600px;
+    padding: 10px;
+}
